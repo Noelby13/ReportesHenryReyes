@@ -1,0 +1,231 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ReportesHenryReyes
+</name>
+</assembly>
+<members>
+<member name="T:ReportesHenryReyes.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ReportesHenryReyes.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ReportesHenryReyes.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.countriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.departmentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.dependentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.employeesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.jobsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.locationsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.regionsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.RptJobEmployeesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.countriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.departmentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.dependentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.employeesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.jobsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.locationsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.regionsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.RptJobEmployeesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.countriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.departmentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.dependentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.employeesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.jobsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.locationsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.regionsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSet.RptJobEmployeesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSetTableAdapters.countriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSetTableAdapters.departmentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSetTableAdapters.dependentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSetTableAdapters.employeesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSetTableAdapters.jobsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSetTableAdapters.locationsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSetTableAdapters.regionsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSetTableAdapters.RptJobEmployeesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ReportesHenryReyes.BdHRDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ReportesHenryReyes.BdHRDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ReportesHenryReyes.BdHRDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ReportesHenryReyes.BdHRDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ReportesHenryReyes.BdHRDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ReportesHenryReyes.BdHRDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ReportesHenryReyes.BdHRDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ReportesHenryReyes.BdHRDataSetTableAdapters.TableAdapterManager.UpdateAll(ReportesHenryReyes.BdHRDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ReportesHenryReyes.BdHRDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
